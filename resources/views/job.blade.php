@@ -42,6 +42,7 @@
                 </div>
 
 		<div class="row">ROW</div>
+		<div class="row">ROW2</div>
             </div>
         </div>
     </body>
